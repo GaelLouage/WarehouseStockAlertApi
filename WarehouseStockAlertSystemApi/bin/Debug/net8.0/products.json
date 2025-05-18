@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "quantity": 15,
+    "lastrestocked": "2025-05-10T14:30:00"
+  },
+  {
+    "id": 2,
+    "name": "Keyboard",
+    "quantity": 3,
+    "lastrestocked": "2025-05-12T09:15:00"
+  },
+  {
+    "id": 3,
+    "name": "Mouse",
+    "quantity": 30,
+    "lastrestocked": "2024-11-10T16:45:00"
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "quantity": 2,
+    "lastrestocked": "2024-10-15T11:00:00"
+  },
+  {
+    "id": 5,
+    "name": "USB Cable",
+    "quantity": 100,
+    "lastrestocked": "2025-05-13T08:00:00"
+  },
+  {
+    "id": 6,
+    "name": "Webcam",
+    "quantity": 4,
+    "lastrestocked": "2025-04-20T10:00:00"
+  },
+  {
+    "id": 7,
+    "name": "Printer",
+    "quantity": 8,
+    "lastrestocked": "2024-11-01T13:00:00"
+  },
+  {
+    "id": 8,
+    "name": "Headphones",
+    "quantity": 1,
+    "lastrestocked": "2024-10-10T09:30:00"
+  }
+]

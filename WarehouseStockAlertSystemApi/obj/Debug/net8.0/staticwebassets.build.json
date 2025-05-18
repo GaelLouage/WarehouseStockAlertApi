@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sEbP/3LaJc5lsFLDv3L/B759wBtS08GmOoZhWIsdtkM=",
+  "Source": "WarehouseStockAlertSystemApi",
+  "BasePath": "_content/WarehouseStockAlertSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
